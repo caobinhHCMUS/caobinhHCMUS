@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caobinhHCMUS
-- 🌱 I’m currently learning University of Scinencc
+- 🌱 I’m currently learning University of Science
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - contact for me:
