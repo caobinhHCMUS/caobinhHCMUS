@@ -3,8 +3,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - contact for me:
-  +email: ctbinh19@gmail.com
-  +phone nuber: (+84) 337878665
+  email: ctbinh19@gmail.com  
 - ⚡ Fun fact: love life
 
 <!---
